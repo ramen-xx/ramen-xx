@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Discord Bots
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning CSS(Cascading Style Sheets)
 - 💬 Ask me about Discord Bot Developing
 - 📫 How to reach me: [@SyedAamish7](https://twitter.com/SyedAamish7)
 
