@@ -1,13 +1,6 @@
-### Hi there 👋, my name is Ramen  
-#### I am Discord Bot Developer
-![I am Discord Bot Developer](https://thumbs.gfycat.com/AffectionateCheapFeline-max-1mb.gif)
+![I am Discord Bot Developer](https://media0.giphy.com/headers/colorful-courier/ammr2uN8JUE3.gif)
 
-- 🔭 I’m currently working on Discord Bots
-- 🌱 I’m currently learning CSS (Cascading Style Sheets)
-- 💬 Ask me about Discord Bot Developing
-- 📫 How to reach me: [@SyedAamish7](https://twitter.com/SyedAamish7)
 
-Skills: JS / HTML / CSS
 
 
 
